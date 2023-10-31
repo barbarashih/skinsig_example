@@ -1,0 +1,887 @@
+hgnc_symbol,signature
+CHAC1,Hair follicle
+DNAJC6,Hair follicle
+DSG4,Hair follicle
+GPRC5D,Hair follicle
+HOXC13,Hair follicle
+KRT25,Hair follicle
+KRT27,Hair follicle
+KRT31,Hair follicle
+KRT32,Hair follicle
+KRT33A,Hair follicle
+KRT33B,Hair follicle
+KRT34,Hair follicle
+KRT35,Hair follicle
+KRT36,Hair follicle
+KRT40,Hair follicle
+KRT71,Hair follicle
+KRT74,Hair follicle
+KRT75,Hair follicle
+KRT81,Hair follicle
+KRT82,Hair follicle
+KRT83,Hair follicle
+KRT85,Hair follicle
+KRT86,Hair follicle
+KRTAP10-11,Hair follicle
+KRTAP10-12,Hair follicle
+KRTAP1-1,Hair follicle
+KRTAP11-1,Hair follicle
+KRTAP1-3,Hair follicle
+KRTAP13-1,Hair follicle
+KRTAP1-5,Hair follicle
+KRTAP17-1,Hair follicle
+KRTAP19-1,Hair follicle
+KRTAP2-1,Hair follicle
+KRTAP2-2,Hair follicle
+KRTAP2-3,Hair follicle
+KRTAP2-4,Hair follicle
+KRTAP3-1,Hair follicle
+KRTAP3-2,Hair follicle
+KRTAP3-3,Hair follicle
+KRTAP4-1,Hair follicle
+KRTAP4-11,Hair follicle
+KRTAP4-12,Hair follicle
+KRTAP4-2,Hair follicle
+KRTAP4-3,Hair follicle
+KRTAP4-4,Hair follicle
+KRTAP4-5,Hair follicle
+KRTAP4-6,Hair follicle
+KRTAP4-7,Hair follicle
+KRTAP4-8,Hair follicle
+KRTAP4-9,Hair follicle
+KRTAP5-8,Hair follicle
+KRTAP8-1,Hair follicle
+KRTAP9-2,Hair follicle
+KRTAP9-3,Hair follicle
+KRTAP9-4,Hair follicle
+KRTAP9-9,Hair follicle
+LYG2,Hair follicle
+PADI3,Hair follicle
+PRR9,Hair follicle
+PSORS1C2,Hair follicle
+S100A3,Hair follicle
+TCHH,Hair follicle
+ACAA1,Sebaceous gland
+ACADM,Sebaceous gland
+ACAT2,Sebaceous gland
+ACO1,Sebaceous gland
+ACOT1,Sebaceous gland
+ACOX2,Sebaceous gland
+ACSBG1,Sebaceous gland
+ACSL1,Sebaceous gland
+ACSL5,Sebaceous gland
+ACSM3,Sebaceous gland
+ACSS2,Sebaceous gland
+AGPAT3,Sebaceous gland
+ALOX15B,Sebaceous gland
+APMAP,Sebaceous gland
+APOC1,Sebaceous gland
+ATP5G3,Sebaceous gland
+AWAT1,Sebaceous gland
+BCAT2,Sebaceous gland
+BRI3BP,Sebaceous gland
+C1orf122,Sebaceous gland
+CECR2,Sebaceous gland
+CHI3L1,Sebaceous gland
+CIDEA,Sebaceous gland
+CLMP,Sebaceous gland
+CRAT,Sebaceous gland
+CUX2,Sebaceous gland
+CYB5A,Sebaceous gland
+CYP4F2,Sebaceous gland
+CYP4F8,Sebaceous gland
+DDC,Sebaceous gland
+DDO,Sebaceous gland
+DGAT2,Sebaceous gland
+DHRS9,Sebaceous gland
+EBP,Sebaceous gland
+ELOVL3,Sebaceous gland
+ELOVL5,Sebaceous gland
+FA2H,Sebaceous gland
+FADS1,Sebaceous gland
+FADS2,Sebaceous gland
+FAR2,Sebaceous gland
+FASN,Sebaceous gland
+FBP1,Sebaceous gland
+FDPS,Sebaceous gland
+GABRA4,Sebaceous gland
+GAL,Sebaceous gland
+GLDC,Sebaceous gland
+GLYATL1,Sebaceous gland
+HACL1,Sebaceous gland
+HADH,Sebaceous gland
+HAO2,Sebaceous gland
+HEATR4,Sebaceous gland
+HGD,Sebaceous gland
+HLCS,Sebaceous gland
+HSD3B1,Sebaceous gland
+IDH1,Sebaceous gland
+IDI1,Sebaceous gland
+INSIG1,Sebaceous gland
+IPO5P1,Sebaceous gland
+KNSTRN,Sebaceous gland
+KRT79,Sebaceous gland
+LDHD,Sebaceous gland
+LINC01554,Sebaceous gland
+MDH1,Sebaceous gland
+METTL7B,Sebaceous gland
+MGST1,Sebaceous gland
+MOGAT1,Sebaceous gland
+MOGAT2,Sebaceous gland
+MPC2,Sebaceous gland
+MSMO1,Sebaceous gland
+MSRB1,Sebaceous gland
+MVD,Sebaceous gland
+NSDHL,Sebaceous gland
+OLAH,Sebaceous gland
+PADI4,Sebaceous gland
+PCCB,Sebaceous gland
+PDE6A,Sebaceous gland
+PDHA1,Sebaceous gland
+PECR,Sebaceous gland
+PEX11A,Sebaceous gland
+PGRMC1,Sebaceous gland
+PKLR,Sebaceous gland
+PLIN5,Sebaceous gland
+PM20D1,Sebaceous gland
+PNLDC1,Sebaceous gland
+PNPLA5,Sebaceous gland
+RDH11,Sebaceous gland
+SC5D,Sebaceous gland
+SEC14L4,Sebaceous gland
+SGK2,Sebaceous gland
+SLC25A35,Sebaceous gland
+SOAT1,Sebaceous gland
+SYPL2,Sebaceous gland
+TF,Sebaceous gland
+THRSP,Sebaceous gland
+TMEM56,Sebaceous gland
+TMEM91,Sebaceous gland
+TMEM97,Sebaceous gland
+TMPRSS11E,Sebaceous gland
+TRIM55,Sebaceous gland
+TST,Sebaceous gland
+UBIAD1,Sebaceous gland
+UPB1,Sebaceous gland
+ZNF117,Sebaceous gland
+ZNF43,Sebaceous gland
+ZP1,Sebaceous gland
+ADCY8,Eccrine sweat gland
+ADORA1,Eccrine sweat gland
+AOC1,Eccrine sweat gland
+AQP5,Eccrine sweat gland
+ARFGEF3,Eccrine sweat gland
+ATP1B1,Eccrine sweat gland
+ATP2A3,Eccrine sweat gland
+ATP6V0A4,Eccrine sweat gland
+ATP6V1B1,Eccrine sweat gland
+CADPS2,Eccrine sweat gland
+CAMK2N1,Eccrine sweat gland
+CEACAM1,Eccrine sweat gland
+CFTR,Eccrine sweat gland
+CHDH,Eccrine sweat gland
+CKMT2,Eccrine sweat gland
+CLDN10,Eccrine sweat gland
+CLDN3,Eccrine sweat gland
+CLDN7,Eccrine sweat gland
+CRACR2A,Eccrine sweat gland
+CRACR2B,Eccrine sweat gland
+CREB3L4,Eccrine sweat gland
+CRISPLD1,Eccrine sweat gland
+DNER,Eccrine sweat gland
+EDAR,Eccrine sweat gland
+ELF5,Eccrine sweat gland
+EPCAM,Eccrine sweat gland
+ESRRG,Eccrine sweat gland
+ETV1,Eccrine sweat gland
+EVA1A,Eccrine sweat gland
+FAM189A2,Eccrine sweat gland
+FMO5,Eccrine sweat gland
+FOLR1,Eccrine sweat gland
+FOXI1,Eccrine sweat gland
+FRZB,Eccrine sweat gland
+FZD1,Eccrine sweat gland
+GABRP,Eccrine sweat gland
+GALNT7,Eccrine sweat gland
+GNG7,Eccrine sweat gland
+GOT1,Eccrine sweat gland
+GPR12,Eccrine sweat gland
+GPR160,Eccrine sweat gland
+GRB14,Eccrine sweat gland
+GRIA2,Eccrine sweat gland
+HSD11B2,Eccrine sweat gland
+IQGAP2,Eccrine sweat gland
+ITPR1,Eccrine sweat gland
+KCNK5,Eccrine sweat gland
+KCNN4,Eccrine sweat gland
+KIAA1324,Eccrine sweat gland
+KRT7,Eccrine sweat gland
+KRT8,Eccrine sweat gland
+MAP6,Eccrine sweat gland
+MMP7,Eccrine sweat gland
+NBEA,Eccrine sweat gland
+NCALD,Eccrine sweat gland
+OXGR1,Eccrine sweat gland
+PADI2,Eccrine sweat gland
+PDE9A,Eccrine sweat gland
+PDK3,Eccrine sweat gland
+PIP5K1B,Eccrine sweat gland
+PLA2R1,Eccrine sweat gland
+PLCB1,Eccrine sweat gland
+PPARGC1A,Eccrine sweat gland
+PPP1R1B,Eccrine sweat gland
+PPP1R9A,Eccrine sweat gland
+PROM1,Eccrine sweat gland
+PRR15L,Eccrine sweat gland
+PYGB,Eccrine sweat gland
+RARB,Eccrine sweat gland
+RHPN2,Eccrine sweat gland
+ROPN1,Eccrine sweat gland
+SFRP1,Eccrine sweat gland
+SH3BP4,Eccrine sweat gland
+SHANK2,Eccrine sweat gland
+SHC4,Eccrine sweat gland
+SHROOM3,Eccrine sweat gland
+SLC12A2,Eccrine sweat gland
+SLC12A7,Eccrine sweat gland
+SLC13A2,Eccrine sweat gland
+SLC14A1,Eccrine sweat gland
+SLC26A2,Eccrine sweat gland
+SLC4A11,Eccrine sweat gland
+SORL1,Eccrine sweat gland
+SOX10,Eccrine sweat gland
+SOX8,Eccrine sweat gland
+SOX9,Eccrine sweat gland
+SOX9-AS1,Eccrine sweat gland
+SPDEF,Eccrine sweat gland
+STAC2,Eccrine sweat gland
+STK32A,Eccrine sweat gland
+STK39,Eccrine sweat gland
+TBX3,Eccrine sweat gland
+TESC,Eccrine sweat gland
+TFCP2L1,Eccrine sweat gland
+TMEM213,Eccrine sweat gland
+TMPRSS2,Eccrine sweat gland
+TPD52L1,Eccrine sweat gland
+VTCN1,Eccrine sweat gland
+WDR72,Eccrine sweat gland
+ABCC11,Apocrine gland
+ABCC12,Apocrine gland
+ACSM1,Apocrine gland
+AKR1D1,Apocrine gland
+B3GAT1,Apocrine gland
+C6orf223,Apocrine gland
+CAPN13,Apocrine gland
+CES1P1,Apocrine gland
+CHST1,Apocrine gland
+CXCL17,Apocrine gland
+DHRS2,Apocrine gland
+FCN2,Apocrine gland
+FIBCD1,Apocrine gland
+GNMT,Apocrine gland
+GSTM5,Apocrine gland
+GUSB,Apocrine gland
+HPN,Apocrine gland
+KMO,Apocrine gland
+KYNU,Apocrine gland
+LBP,Apocrine gland
+LINC01511,Apocrine gland
+NAT2,Apocrine gland
+NLRP13,Apocrine gland
+ST8SIA6-AS1,Apocrine gland
+UGT2B11,Apocrine gland
+ACER1,Keratinocyte differentiation
+ALOXE3,Keratinocyte differentiation
+ANXA9,Keratinocyte differentiation
+AQP9,Keratinocyte differentiation
+ARG1,Keratinocyte differentiation
+ASPRV1,Keratinocyte differentiation
+BPIFC,Keratinocyte differentiation
+BSPRY,Keratinocyte differentiation
+BTC,Keratinocyte differentiation
+C1orf68,Keratinocyte differentiation
+CALML5,Keratinocyte differentiation
+CDC34,Keratinocyte differentiation
+CLIC3,Keratinocyte differentiation
+CNFN,Keratinocyte differentiation
+CRCT1,Keratinocyte differentiation
+CSNK2A2,Keratinocyte differentiation
+CYP4F22,Keratinocyte differentiation
+CYSRT1,Keratinocyte differentiation
+DEGS2,Keratinocyte differentiation
+DMKN,Keratinocyte differentiation
+ELMOD1,Keratinocyte differentiation
+ELOVL7,Keratinocyte differentiation
+EPHX3,Keratinocyte differentiation
+ESYT3,Keratinocyte differentiation
+FAM110A,Keratinocyte differentiation
+FLG2,Keratinocyte differentiation
+GJB5,Keratinocyte differentiation
+GLTP,Keratinocyte differentiation
+IL22RA1,Keratinocyte differentiation
+IL37,Keratinocyte differentiation
+KCTD4,Keratinocyte differentiation
+KLHL18,Keratinocyte differentiation
+KLK5,Keratinocyte differentiation
+KLK7,Keratinocyte differentiation
+KRT23,Keratinocyte differentiation
+KRT78,Keratinocyte differentiation
+KRT80,Keratinocyte differentiation
+KRTDAP,Keratinocyte differentiation
+LCE1B,Keratinocyte differentiation
+LCE2B,Keratinocyte differentiation
+LINC00302,Keratinocyte differentiation
+LOR,Keratinocyte differentiation
+LY6G6C,Keratinocyte differentiation
+LYNX1,Keratinocyte differentiation
+LYPD5,Keratinocyte differentiation
+MAP1LC3A,Keratinocyte differentiation
+MAP3K9,Keratinocyte differentiation
+MARCH3,Keratinocyte differentiation
+MFSD5,Keratinocyte differentiation
+MPZL3,Keratinocyte differentiation
+NFE2,Keratinocyte differentiation
+NLRP10,Keratinocyte differentiation
+PCSK6,Keratinocyte differentiation
+PDLIM2,Keratinocyte differentiation
+PLCXD1,Keratinocyte differentiation
+PRDM1,Keratinocyte differentiation
+PRSS8,Keratinocyte differentiation
+PTGER3,Keratinocyte differentiation
+RAB11FIP1,Keratinocyte differentiation
+SBSN,Keratinocyte differentiation
+SDR9C7,Keratinocyte differentiation
+SERPINA12,Keratinocyte differentiation
+SLC46A2,Keratinocyte differentiation
+SLURP1,Keratinocyte differentiation
+SPAG1,Keratinocyte differentiation
+SRPK1,Keratinocyte differentiation
+STK10,Keratinocyte differentiation
+SULT2B1,Keratinocyte differentiation
+TACSTD2,Keratinocyte differentiation
+TGM1,Keratinocyte differentiation
+TMEM125,Keratinocyte differentiation
+TMEM86A,Keratinocyte differentiation
+TMPRSS13,Keratinocyte differentiation
+TPRG1,Keratinocyte differentiation
+UBASH3B,Keratinocyte differentiation
+USP32,Keratinocyte differentiation
+WFDC5,Keratinocyte differentiation
+XKRX,Keratinocyte differentiation
+DEFB4A,Keratinocyte (subset)
+PI3,Keratinocyte (subset)
+S100A7,Keratinocyte (subset)
+S100A7A,Keratinocyte (subset)
+S100A8,Keratinocyte (subset)
+S100A9,Keratinocyte (subset)
+SPRR2A,Keratinocyte (subset)
+CA14,Melanocyte
+DCT,Melanocyte
+GPR143,Melanocyte
+MLANA,Melanocyte
+PMEL,Melanocyte
+TYR,Melanocyte
+TYRP1,Melanocyte
+ADAMTS2,Fibroblast
+ADAMTSL1,Fibroblast
+AEBP1,Fibroblast
+ALDH1L2,Fibroblast
+ANGPTL1,Fibroblast
+ANGPTL2,Fibroblast
+ANK2,Fibroblast
+ANXA5,Fibroblast
+ARF4,Fibroblast
+BST1,Fibroblast
+C1QTNF2,Fibroblast
+C1QTNF6,Fibroblast
+C1S,Fibroblast
+CALU,Fibroblast
+CCDC80,Fibroblast
+CD276,Fibroblast
+CD99,Fibroblast
+CERCAM,Fibroblast
+CFD,Fibroblast
+CFH,Fibroblast
+CHRDL1,Fibroblast
+CMTM3,Fibroblast
+COL12A1,Fibroblast
+COL14A1,Fibroblast
+COL1A1,Fibroblast
+COL1A2,Fibroblast
+COL3A1,Fibroblast
+COL5A1,Fibroblast
+COL5A2,Fibroblast
+COL6A1,Fibroblast
+COL6A2,Fibroblast
+COL6A3,Fibroblast
+COL8A2,Fibroblast
+COPZ2,Fibroblast
+CPQ,Fibroblast
+CPZ,Fibroblast
+CREB3L1,Fibroblast
+CTHRC1,Fibroblast
+CTSK,Fibroblast
+DCN,Fibroblast
+DFNA5,Fibroblast
+DPP4,Fibroblast
+DPT,Fibroblast
+EFEMP2,Fibroblast
+ELN,Fibroblast
+EMILIN1,Fibroblast
+EMILIN2,Fibroblast
+EMP3,Fibroblast
+EPB41L3,Fibroblast
+FAM109B,Fibroblast
+FAM198A,Fibroblast
+FBLN1,Fibroblast
+FBLN2,Fibroblast
+FBN1,Fibroblast
+FEZ1,Fibroblast
+FKBP7,Fibroblast
+FN1,Fibroblast
+FSTL1,Fibroblast
+FUCA2,Fibroblast
+GALNT16,Fibroblast
+GLIPR2,Fibroblast
+GPX8,Fibroblast
+GSN,Fibroblast
+HTRA1,Fibroblast
+IGDCC4,Fibroblast
+IL17D,Fibroblast
+ISLR,Fibroblast
+ITGA11,Fibroblast
+ITIH5,Fibroblast
+KAZALD1,Fibroblast
+KDELR3,Fibroblast
+LIPC,Fibroblast
+LOX,Fibroblast
+LOXL1,Fibroblast
+LRP1,Fibroblast
+LTBP1,Fibroblast
+LUM,Fibroblast
+MAGED1,Fibroblast
+MAGEH1,Fibroblast
+MARVELD1,Fibroblast
+MASP1,Fibroblast
+MFAP4,Fibroblast
+MFAP5,Fibroblast
+MGP,Fibroblast
+MMP2,Fibroblast
+MMP27,Fibroblast
+MRC2,Fibroblast
+NAP1L3,Fibroblast
+OAF,Fibroblast
+OLFML1,Fibroblast
+OLFML2B,Fibroblast
+OMD,Fibroblast
+P3H1,Fibroblast
+P3H3,Fibroblast
+PAM,Fibroblast
+PCOLCE,Fibroblast
+PDGFD,Fibroblast
+PDGFRA,Fibroblast
+PDGFRB,Fibroblast
+PDGFRL,Fibroblast
+PDIA5,Fibroblast
+PI16,Fibroblast
+PIEZO2,Fibroblast
+PLAC9,Fibroblast
+PLPP3,Fibroblast
+PMP22,Fibroblast
+PODN,Fibroblast
+PPIC,Fibroblast
+PRRG3,Fibroblast
+PTGFR,Fibroblast
+RASSF2,Fibroblast
+RCN3,Fibroblast
+RECK,Fibroblast
+S100A4,Fibroblast
+S100A6,Fibroblast
+SCARA5,Fibroblast
+SERPINF1,Fibroblast
+SFRP2,Fibroblast
+SLC2A10,Fibroblast
+SLIT3,Fibroblast
+SPARC,Fibroblast
+SSC5D,Fibroblast
+SVEP1,Fibroblast
+THY1,Fibroblast
+TIMP2,Fibroblast
+TMEM119,Fibroblast
+TPST1,Fibroblast
+VCAN,Fibroblast
+VGLL3,Fibroblast
+WISP2,Fibroblast
+XPNPEP2,Fibroblast
+ZNF469,Fibroblast
+A2M-AS1,Endothelium
+ADGRF5,Endothelium
+ADGRL4,Endothelium
+ARAP3,Endothelium
+C10orf128,Endothelium
+CCM2L,Endothelium
+CD93,Endothelium
+CHN1,Endothelium
+CYYR1,Endothelium
+EBF1,Endothelium
+EBF3,Endothelium
+ECSCR,Endothelium
+EPS8,Endothelium
+ERG,Endothelium
+FAM162B,Endothelium
+FLI1,Endothelium
+GIMAP1,Endothelium
+GIMAP4,Endothelium
+GIMAP6,Endothelium
+GNG11,Endothelium
+GUCY1B3,Endothelium
+ICAM2,Endothelium
+JAM2,Endothelium
+LIN7A,Endothelium
+MECOM,Endothelium
+MEF2C,Endothelium
+MEOX2,Endothelium
+NR2F2,Endothelium
+PLVAP,Endothelium
+PTPRB,Endothelium
+RASIP1,Endothelium
+ROBO4,Endothelium
+SHANK3,Endothelium
+SHE,Endothelium
+SPARCL1,Endothelium
+TAL1,Endothelium
+TEK,Endothelium
+TIE1,Endothelium
+TSPAN7,Endothelium
+VWF,Endothelium
+ACTA2,Smooth muscle
+ACTG2,Smooth muscle
+ALDH1A2,Smooth muscle
+ALDH1B1,Smooth muscle
+ASB2,Smooth muscle
+CARMN,Smooth muscle
+CASQ2,Smooth muscle
+CFL2,Smooth muscle
+CNN1,Smooth muscle
+CSRP1,Smooth muscle
+DACT3,Smooth muscle
+DES,Smooth muscle
+DTNA,Smooth muscle
+FILIP1,Smooth muscle
+FLNC,Smooth muscle
+HSD17B6,Smooth muscle
+ITGA8,Smooth muscle
+JPH2,Smooth muscle
+KCNMA1,Smooth muscle
+KCNMB1,Smooth muscle
+LMOD1,Smooth muscle
+MBNL1-AS1,Smooth muscle
+MRVI1,Smooth muscle
+MSRB3,Smooth muscle
+MYH11,Smooth muscle
+MYL9,Smooth muscle
+MYLK,Smooth muscle
+MYOCD,Smooth muscle
+P2RX1,Smooth muscle
+PCP4,Smooth muscle
+PDLIM3,Smooth muscle
+PGM5,Smooth muscle
+PLN,Smooth muscle
+PPP1R14A,Smooth muscle
+PRKG1,Smooth muscle
+PRUNE2,Smooth muscle
+RAB9B,Smooth muscle
+RASL12,Smooth muscle
+RBPMS2,Smooth muscle
+SCUBE3,Smooth muscle
+SORBS2,Smooth muscle
+SYNM,Smooth muscle
+SYNPO2,Smooth muscle
+TAGLN,Smooth muscle
+TMOD1,Smooth muscle
+TPM1,Smooth muscle
+TPM2,Smooth muscle
+WFDC1,Smooth muscle
+WIPF3,Smooth muscle
+ACTA1,Skeletal muscle
+ACTN2,Skeletal muscle
+ACTN3,Skeletal muscle
+AMPD1,Skeletal muscle
+APOBEC2,Skeletal muscle
+ASB5,Skeletal muscle
+ATP2A1,Skeletal muscle
+ATP2A1-AS1,Skeletal muscle
+C10orf71,Skeletal muscle
+CA3,Skeletal muscle
+CACNA1S,Skeletal muscle
+CACNG1,Skeletal muscle
+CASQ1,Skeletal muscle
+CKM,Skeletal muscle
+COX6A2,Skeletal muscle
+CSRP3,Skeletal muscle
+DHRS7C,Skeletal muscle
+DUSP26,Skeletal muscle
+ENO3,Skeletal muscle
+FBP2,Skeletal muscle
+HFE2,Skeletal muscle
+IDI2,Skeletal muscle
+JSRP1,Skeletal muscle
+KLHL40,Skeletal muscle
+KLHL41,Skeletal muscle
+LMOD2,Skeletal muscle
+LMOD3,Skeletal muscle
+MB,Skeletal muscle
+MIR1-1HG,Skeletal muscle
+MYBPC1,Skeletal muscle
+MYBPC2,Skeletal muscle
+MYH1,Skeletal muscle
+MYH2,Skeletal muscle
+MYH7,Skeletal muscle
+MYL1,Skeletal muscle
+MYL2,Skeletal muscle
+MYL3,Skeletal muscle
+MYLK2,Skeletal muscle
+MYLPF,Skeletal muscle
+MYOT,Skeletal muscle
+MYOZ1,Skeletal muscle
+MYOZ2,Skeletal muscle
+NEB,Skeletal muscle
+NMRK2,Skeletal muscle
+NRAP,Skeletal muscle
+PPP1R3A,Skeletal muscle
+PYGM,Skeletal muscle
+RPL3L,Skeletal muscle
+SLN,Skeletal muscle
+SMCO1,Skeletal muscle
+SMPX,Skeletal muscle
+SMYD1,Skeletal muscle
+STAC3,Skeletal muscle
+SYNPO2L,Skeletal muscle
+TCAP,Skeletal muscle
+TMOD4,Skeletal muscle
+TNNC2,Skeletal muscle
+TNNI1,Skeletal muscle
+TRDN,Skeletal muscle
+TRIM54,Skeletal muscle
+TTN,Skeletal muscle
+TTN-AS1,Skeletal muscle
+UNC45B,Skeletal muscle
+XIRP2,Skeletal muscle
+ACVR1C,Adipocyte
+ADIPOQ,Adipocyte
+AGPAT2,Adipocyte
+AIFM2,Adipocyte
+CDO1,Adipocyte
+CIDEC,Adipocyte
+FZD4,Adipocyte
+GPAM,Adipocyte
+GPD1,Adipocyte
+GYG2,Adipocyte
+HEPACAM,Adipocyte
+HRASLS5,Adipocyte
+LGALS12,Adipocyte
+LIPE,Adipocyte
+LPL,Adipocyte
+MARC1,Adipocyte
+MRAP,Adipocyte
+NAT8L,Adipocyte
+PCK1,Adipocyte
+PDE3B,Adipocyte
+PLA2G16,Adipocyte
+PLIN1,Adipocyte
+PLIN4,Adipocyte
+PPP1R1A,Adipocyte
+PRKAR2B,Adipocyte
+RBP4,Adipocyte
+SCD,Adipocyte
+SLC19A3,Adipocyte
+TIMP4,Adipocyte
+TUSC5,Adipocyte
+AIF1,Macrophage / DC
+ALOX5AP,Macrophage / DC
+ARRB2,Macrophage / DC
+BCAT1,Macrophage / DC
+C1QA,Macrophage / DC
+C1QB,Macrophage / DC
+C1QC,Macrophage / DC
+C3AR1,Macrophage / DC
+CD14,Macrophage / DC
+CD163,Macrophage / DC
+CD209,Macrophage / DC
+CD53,Macrophage / DC
+CD84,Macrophage / DC
+CSF1R,Macrophage / DC
+CTSS,Macrophage / DC
+CYBB,Macrophage / DC
+CYTH4,Macrophage / DC
+DOCK2,Macrophage / DC
+DOK2,Macrophage / DC
+F13A1,Macrophage / DC
+FCER1G,Macrophage / DC
+FCGR2A,Macrophage / DC
+FCGR2B,Macrophage / DC
+FOLR2,Macrophage / DC
+GPR34,Macrophage / DC
+HAVCR2,Macrophage / DC
+HCK,Macrophage / DC
+IL10RA,Macrophage / DC
+ITGAM,Macrophage / DC
+ITGB2,Macrophage / DC
+LAIR1,Macrophage / DC
+LAPTM5,Macrophage / DC
+LCP2,Macrophage / DC
+LILRB4,Macrophage / DC
+LILRB5,Macrophage / DC
+MARCO,Macrophage / DC
+MS4A14,Macrophage / DC
+MS4A4A,Macrophage / DC
+MS4A6A,Macrophage / DC
+MS4A7,Macrophage / DC
+MSR1,Macrophage / DC
+NCF4,Macrophage / DC
+RNASE1,Macrophage / DC
+SIGLEC1,Macrophage / DC
+SLCO2B1,Macrophage / DC
+THEMIS2,Macrophage / DC
+TLR8,Macrophage / DC
+TYROBP,Macrophage / DC
+VSIG4,Macrophage / DC
+CD2,T cell
+CD247,T cell
+CD3D,T cell
+CD3G,T cell
+CD48,T cell
+CD8A,T cell
+EOMES,T cell
+FYB,T cell
+GZMA,T cell
+GZMK,T cell
+IL7R,T cell
+LCK,T cell
+PTPRC,T cell
+SCML4,T cell
+SPOCK2,T cell
+THEMIS,T cell
+TRAT1,T cell
+BTK,Fc?R signalling
+GATA2,Fc?R signalling
+HDC,Fc?R signalling
+LAT2,Fc?R signalling
+MS4A2,Fc?R signalling
+RGS13,Fc?R signalling
+SIGLEC17P,Fc?R signalling
+IGHA1,Plasma cell
+IGHV3-23,Plasma cell
+IGKV1-17,Plasma cell
+IGKV4-1,Plasma cell
+IGLC2,Plasma cell
+JCHAIN,Plasma cell
+MZB1,Plasma cell
+CMPK2,IFN
+CXCL10,IFN
+CXCL11,IFN
+CXCL9,IFN
+DTX3L,IFN
+EPSTI1,IFN
+GBP1,IFN
+HERC6,IFN
+IFI44,IFN
+IFI44L,IFN
+IFI6,IFN
+IFIT3,IFN
+ISG15,IFN
+MX1,IFN
+OAS2,IFN
+OAS3,IFN
+ODF3B,IFN
+PARP14,IFN
+PARP9,IFN
+RSAD2,IFN
+STAT1,IFN
+XAF1,IFN
+ANLN,Cell cycle (S/M phase)
+ASPM,Cell cycle (S/M phase)
+AURKA,Cell cycle (S/M phase)
+AURKB,Cell cycle (S/M phase)
+BUB1,Cell cycle (S/M phase)
+BUB1B,Cell cycle (S/M phase)
+CASC5,Cell cycle (S/M phase)
+CCNA2,Cell cycle (S/M phase)
+CCNB1,Cell cycle (S/M phase)
+CCNB2,Cell cycle (S/M phase)
+CDC20,Cell cycle (S/M phase)
+CDCA3,Cell cycle (S/M phase)
+CDCA5,Cell cycle (S/M phase)
+CDCA8,Cell cycle (S/M phase)
+CDK1,Cell cycle (S/M phase)
+CDKN3,Cell cycle (S/M phase)
+CENPA,Cell cycle (S/M phase)
+CENPE,Cell cycle (S/M phase)
+CENPF,Cell cycle (S/M phase)
+CENPK,Cell cycle (S/M phase)
+CENPW,Cell cycle (S/M phase)
+CEP55,Cell cycle (S/M phase)
+CKS2,Cell cycle (S/M phase)
+DEPDC1,Cell cycle (S/M phase)
+DLGAP5,Cell cycle (S/M phase)
+DTL,Cell cycle (S/M phase)
+E2F7,Cell cycle (S/M phase)
+ECT2,Cell cycle (S/M phase)
+GINS1,Cell cycle (S/M phase)
+GINS2,Cell cycle (S/M phase)
+HELLS,Cell cycle (S/M phase)
+HMMR,Cell cycle (S/M phase)
+KIAA0101,Cell cycle (S/M phase)
+KIF11,Cell cycle (S/M phase)
+KIF14,Cell cycle (S/M phase)
+KIF18B,Cell cycle (S/M phase)
+KIF20A,Cell cycle (S/M phase)
+KIF23,Cell cycle (S/M phase)
+KIF2C,Cell cycle (S/M phase)
+KIF4A,Cell cycle (S/M phase)
+MCM2,Cell cycle (S/M phase)
+MELK,Cell cycle (S/M phase)
+MKI67,Cell cycle (S/M phase)
+NCAPG,Cell cycle (S/M phase)
+NDC80,Cell cycle (S/M phase)
+NEK2,Cell cycle (S/M phase)
+NUF2,Cell cycle (S/M phase)
+NUSAP1,Cell cycle (S/M phase)
+OIP5,Cell cycle (S/M phase)
+PBK,Cell cycle (S/M phase)
+PCNA,Cell cycle (S/M phase)
+PRC1,Cell cycle (S/M phase)
+PTTG1,Cell cycle (S/M phase)
+RACGAP1,Cell cycle (S/M phase)
+RAD51AP1,Cell cycle (S/M phase)
+RRM2,Cell cycle (S/M phase)
+SPAG5,Cell cycle (S/M phase)
+TK1,Cell cycle (S/M phase)
+TOP2A,Cell cycle (S/M phase)
+TPX2,Cell cycle (S/M phase)
+TTK,Cell cycle (S/M phase)
+TYMS,Cell cycle (S/M phase)
+UBE2C,Cell cycle (S/M phase)
+ZNF367,Cell cycle (S/M phase)
+ZWINT,Cell cycle (S/M phase)
+CIART,Circadian clock
+CRY2,Circadian clock
+DBP,Circadian clock
+NR1D1,Circadian clock
+NR1D2,Circadian clock
+PER1,Circadian clock
+PER3,Circadian clock
+TEF,Circadian clock
+DDX3Y,Y-chromosome
+EIF1AY,Y-chromosome
+KDM5D,Y-chromosome
+NLGN4Y,Y-chromosome
+PRKY,Y-chromosome
+RNASEH2CP1,Y-chromosome
+RPS4Y1,Y-chromosome
+TTTY14,Y-chromosome
+TTTY15,Y-chromosome
+TXLNGY,Y-chromosome
+USP9Y,Y-chromosome
+UTY,Y-chromosome
+ZFY,Y-chromosome
